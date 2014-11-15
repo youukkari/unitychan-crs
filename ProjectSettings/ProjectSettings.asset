@@ -10,8 +10,8 @@ PlayerSettings:
   targetGlesGraphics: 1
   targetResolution: 0
   accelerometerFrequency: 60
-  companyName: Unity Technologies Japan
-  productName: UnityChan CRS
+  companyName: ReDo
+  productName: UnityChanCRS3D
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   defaultScreenWidth: 1920
@@ -118,6 +118,7 @@ PlayerSettings:
     m_DynamicBatching: 1
   webPlayerTemplate: PROJECT:Temp4
   m_TemplateCustomTags: {}
+  locationUsageDescription: 
   XboxTitleId: 
   XboxImageXexPath: 
   XboxSpaPath: 
